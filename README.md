@@ -6,3 +6,4 @@
       ### 課程筆記區
       ### 作業連結區
        [230310 作業一](https://youtu.be/D1S4DjNQAMI)
+       [230327 作業二](https://youtu.be/ZJXO3cm8vLg)
