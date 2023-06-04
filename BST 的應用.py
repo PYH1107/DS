@@ -82,3 +82,8 @@ playlist.play_song("Song B")  # Playing: Song B - Artist B
 playlist.play_song("Song D")  # Playing: Song D - Artist D
 playlist.play_song("Song E")  # Song not found.
 
+# Memo to myself (230604，14:09。理圖):
+    # 比起BST，ChatGPT所給的這個範例更像是單純的binary search 而已。
+    # 因為並未使用到 "a valid binary search tree" 的定義 (也無法比大小)
+    # 但如果能加以修改(ex. 多聽一次這首歌就為它加一分，最後構建成BST。實現有效的管理跟喜好查詢/分類)
+    #Conclusion: 不清楚現在串流平台的推薦/算法機制如何運行，但從這個發想中總覺得離那些厲害的酷東西更進一步了!)
